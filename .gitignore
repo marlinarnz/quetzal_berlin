@@ -1,0 +1,8 @@
+notebooks/.ipynb*
+notebooks/log/
+input/transport_demand/
+literature/
+model/los/
+model/car_free/
+model/base/
+outputs/
