@@ -1,5 +1,6 @@
 notebooks/.ipynb*
 notebooks/log/
+notebooks/biogeme.toml
 input/transport_demand/
 literature/
 model/los/
